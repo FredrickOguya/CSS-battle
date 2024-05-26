@@ -1,0 +1,83 @@
+<div></div>
+<div id="a"></div>
+<div id="b"></div>
+<div id="c"></div>
+<div id="d"></div>
+<div id="e"></div>
+
+
+<style>
+body{
+background:#FEFF58;
+}
+div {
+position:absolute;
+top:0px;
+width: 40px;
+height: 170px;
+background: #F48B26;
+left:0px;
+margin:0;
+padding:0;
+box-shadow:360px 130px #F48B26 ;
+}
+#a {
+background:#F48B26;
+width:320px;
+height:40px;
+position:absolute;
+top:130px;
+left:40px;
+}
+#b {
+background:#F48B26;
+position:absolute;
+width:39px;
+height: 40px;
+left:40px;
+top:150px;
+border-radius:27px;
+box-shadow:80px 0px #F48B26 
+
+}
+#c {
+background:#F48B26;
+position:absolute;
+width:39px;
+height: 40px;
+left:200px;
+top:150px;
+border-radius:27px;
+box-shadow:80px 0px #F48B26 
+
+}
+#d {
+background:#F48B26;
+position:absolute;
+width:39px;
+height: 40px;
+left:80px;
+top:110px;
+border-radius:27px;
+box-shadow:80px 0px #F48B26 
+
+}
+#e {
+background:#F48B26;
+position:absolute;
+width:39px;
+height: 40px;
+left:240px;
+top:110px;
+border-radius:27px;
+box-shadow:80px 0px #F48B26 
+
+}
+</style>
+<!-- OBJECTIVE -->
+<!-- Write HTML/CSS in this editor and replicate the given target image in the least code possible. What you write here, renders as it is -->
+
+<!-- SCORING -->
+<!-- The score is calculated based on the number of characters you use (this comment included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. -->
+
+<!-- IMPORTANT: remove the comments before submitting -->
